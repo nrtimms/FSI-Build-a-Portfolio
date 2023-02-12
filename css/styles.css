@@ -1,0 +1,20 @@
+h1, h3{
+    color:rgb(14, 60, 18);
+    font-family: tahoma;
+}
+
+.center{
+    text-align: center;
+}
+
+body {
+    background-image: linear-gradient(rgb(137, 199, 137), rgb(224, 235, 224));
+  }
+ 
+ img {
+    width: 300px;
+    border: 15px solid rgb(14, 60, 18);
+    padding: 10px;
+    margin: 20px;
+    border-radius: 25px;
+ } 
